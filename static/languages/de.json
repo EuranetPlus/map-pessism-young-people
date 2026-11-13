@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Glauben junge Europäer, dass zukünftige Generationen die gleichen Chancen haben werden?",
+  "subtitle": "Im Jahr 2026 waren 53 % der jungen Menschen in der EU der Ansicht, dass die nächste Generation nicht die gleichen Chancen auf Erfolg im Leben haben wird wie die jungen Menschen von heute. Zypern verzeichnete mit 62 % den höchsten Anteil, Estland mit 27 % den niedrigsten.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Zahlen fassen die Antworten „Stimme eher nicht zu“ und „Stimme überhaupt nicht zu“ auf die Aussage zusammen, dass junge Menschen in 30 Jahren dieselben Erfolgschancen im Leben haben werden wie junge Menschen gleichen Alters heute. Die Eurobarometer-585-Studie befragte zwischen dem 19. Juni und dem 1. Juli 2026 26.807 Personen im Alter von 15 bis 30 Jahren in allen 27 EU-Mitgliedstaaten mittels Online-Fragebögen. Pro Land wurden rund 1.000 Personen befragt, mit Ausnahme von Zypern, Luxemburg und Malta (jeweils rund 500). Die Ergebnisse wurden nach Alter, Geschlecht, Urbanisierungsgrad und regionaler Bevölkerungsverteilung gewichtet, wobei der EU-27-Durchschnitt zusätzlich nach der jeweiligen Landesbevölkerung gewichtet wurde.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurobarometer",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "von Personen unter 30 Jahren",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
