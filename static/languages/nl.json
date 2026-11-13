@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Geloven jonge Europeanen dat toekomstige generaties dezelfde kansen zullen hebben?",
+  "subtitle": "In 2026 was 53% van de jongeren in de EU het er niet mee eens dat de volgende generatie dezelfde kansen op succes in het leven zal hebben als de jongeren van nu. Cyprus had het hoogste percentage met 62%, terwijl Estland het laagste had met 27%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De cijfers combineren de antwoorden 'Neigt tot oneens' en 'Helemaal oneens' op de stelling dat jongeren over 30 jaar dezelfde kansen op succes in het leven zullen hebben als jongeren van dezelfde leeftijd nu. Voor het Flash Eurobarometer 585-onderzoek werden tussen 19 juni en 1 juli 2026 26.807 mensen van 15 tot 30 jaar in alle 27 EU-lidstaten geïnterviewd via online vragenlijsten. Per land werden ongeveer 1.000 respondenten ondervraagd, met uitzondering van Cyprus, Luxemburg en Malta (ongeveer 500 per land). De resultaten werden gewogen naar leeftijd, geslacht, urbanisatiegraad en regionale bevolkingsverdeling, waarbij het EU-27-gemiddelde bovendien werd gewogen naar de bevolking van het betreffende land.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometer",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van mensen jonger dan 30 jaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
