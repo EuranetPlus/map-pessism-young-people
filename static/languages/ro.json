@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cred tinerii europeni că generațiile viitoare vor avea aceleași oportunități?",
+  "subtitle": "În 2026, 53% dintre tinerii din UE nu erau de acord că următoarea generație va avea aceleași șanse de succes în viață ca tinerii de astăzi. Cipru a înregistrat cea mai mare pondere, de 62%, în timp ce Estonia a avut cea mai mică, de 27%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Cifrele combină răspunsurile „Tind în dezacord” și „Total în dezacord” la afirmația conform căreia tinerii de peste 30 de ani vor avea aceleași șanse de reușită în viață ca tinerii de aceeași vârstă de astăzi. Sondajul Flash Eurobarometru 585 a intervievat 26.807 persoane cu vârste cuprinse între 15 și 30 de ani din toate cele 27 de state membre ale UE între 19 iunie și 1 iulie 2026 prin intermediul unor chestionare online. Aproximativ 1.000 de respondenți au fost chestionați pe țară, cu excepția Ciprului, Luxemburgului și Maltei (aproximativ 500 fiecare). Rezultatele au fost ponderate în funcție de vârstă, sex, urbanizare și distribuția regională a populației, media UE-27 fiind ponderată suplimentar în funcție de populația țării.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometru",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "de persoane cu vârsta sub 30 de ani",
   "tooltipExtraInfoLabel": "Click aici"
 }
