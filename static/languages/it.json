@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "I giovani europei credono che le generazioni future avranno le stesse opportunità?",
+  "subtitle": "Nel 2026, il 53% dei giovani in tutta l'UE non era d'accordo sul fatto che la prossima generazione avrebbe avuto le stesse possibilità di successo nella vita dei giovani di oggi. Cipro ha registrato la percentuale più alta con il 62%, mentre l'Estonia ha avuto la più bassa con il 27%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "I dati combinano le risposte 'Tendo a non essere d'accordo' e 'Totalmente in disaccordo' all'affermazione secondo cui i giovani tra 30 anni avranno le stesse possibilità di successo nella vita dei giovani della stessa età oggi. L'indagine Flash Eurobarometro 585 ha intervistato 26.807 persone di età compresa tra 15 e 30 anni in tutti i 27 Stati membri dell'UE tra il 19 giugno e il 1° luglio 2026 tramite questionari online. Sono stati intervistati circa 1.000 partecipanti per paese, ad eccezione di Cipro, Lussemburgo e Malta (circa 500 ciascuno). I risultati sono stati ponderati per età, genere, urbanizzazione e distribuzione regionale della popolazione, con la media UE-27 ulteriormente ponderata in base alla popolazione del paese.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurobarometro",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "di persone di età inferiore ai 30 anni",
   "tooltipExtraInfoLabel": "clicca qui"
 }
