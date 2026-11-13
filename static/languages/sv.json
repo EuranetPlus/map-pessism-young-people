@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Tror unga européer att framtida generationer kommer att ha samma möjligheter?",
+  "subtitle": "År 2026 höll 53 % av ungdomarna i EU inte med om att nästa generation kommer att ha samma chanser att lyckas i livet som dagens ungdomar. Cypern hade den högsta andelen med 62 %, medan Estland hade den lägsta med 27 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Siffrorna kombinerar svaren 'Tenderar att inte hålla med' och 'Helt inte hålla med' på påståendet att unga människor om 30 år kommer att ha samma chanser att lyckas i livet som unga människor i samma ålder idag. I undersökningen Flash Eurobarometer 585 intervjuades 26 807 personer i åldrarna 15–30 år i alla 27 EU-medlemsstater mellan 19 juni och 1 juli 2026 via online-frågeformulär. Cirka 1 000 respondenter tillfrågades per land, förutom Cypern, Luxemburg och Malta (cirka 500 vardera). Resultaten viktades efter ålder, kön, urbanisering och regional befolkningsfördelning, där genomsnittet för EU-27 dessutom viktades efter landets befolkning.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurobarometern",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av personer under 30 år",
   "tooltipExtraInfoLabel": "Klicka här"
 }
