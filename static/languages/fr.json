@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Les jeunes Européens croient-ils que les générations futures auront les mêmes opportunités ?",
+  "subtitle": "En 2026, 53 % des jeunes de l'UE estimaient que la prochaine génération n'aurait pas les mêmes chances de réussite que les jeunes d'aujourd'hui. Chypre affichait le taux le plus élevé (62 %), tandis que l'Estonie enregistrait le plus faible (27 %).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Ces chiffres combinent les réponses « Plutôt en désaccord » et « Pas du tout d'accord » à l'affirmation selon laquelle les jeunes dans 30 ans auront les mêmes chances de réussir dans la vie que les jeunes du même âge aujourd'hui. L'enquête Flash Eurobaromètre 585 a interrogé 26 807 personnes âgées de 15 à 30 ans dans les 27 États membres de l'UE entre le 19 juin et le 1er juillet 2026, au moyen de questionnaires en ligne. Environ 1 000 personnes ont été interrogées par pays, à l'exception de Chypre, du Luxembourg et de Malte (environ 500 dans chaque pays). Les résultats ont été pondérés en fonction de l'âge, du sexe, du degré d'urbanisation et de la répartition régionale de la population, la moyenne de l'UE-27 étant également pondérée en fonction de la population de chaque pays.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobaromètre",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "des personnes âgées de moins de 30 ans",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
