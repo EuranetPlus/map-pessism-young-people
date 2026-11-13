@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Iż-żgħażagħ Ewropej jemmnu li l-ġenerazzjonijiet futuri se jkollhom l-istess opportunitajiet?",
+  "subtitle": "Fl-2026, 53% taż-żgħażagħ madwar l-UE ma qablux li l-ġenerazzjoni li jmiss se jkollha l-istess ċansijiet ta’ suċċess fil-ħajja bħaż-żgħażagħ tal-lum. Ċipru rreġistra l-ogħla sehem b’62%, filwaqt li l-Estonja kellha l-inqas b’27%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Iċ-ċifri jikkombinaw it-tweġibiet “Tendenza li ma naqbilx” u “Ma naqbilx għal kollox” għad-dikjarazzjoni li ż-żgħażagħ fi żmien 30 sena se jkollhom l-istess ċansijiet li jirnexxu fil-ħajja bħaż-żgħażagħ tal-istess età tal-lum. L-istħarriġ Flash Eurobarometer 585 intervista 26,807 persuna ta’ bejn il-15 u t-30 sena fis-27 Stat Membru tal-UE bejn id-19 ta’ Ġunju u l-1 ta’ Lulju 2026 permezz ta’ kwestjonarji online. Madwar 1,000 rispondent ġew mistħarrġa għal kull pajjiż, ħlief Ċipru, il-Lussemburgu u Malta (madwar 500 kull wieħed). Ir-riżultati ġew ponderati skont l-età, is-sess, l-urbanizzazzjoni u d-distribuzzjoni tal-popolazzjoni reġjonali, bil-medja tal-UE-27 tiġi ponderata wkoll skont il-popolazzjoni tal-pajjiż.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Eurobarometer",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "ta’ nies taħt it-30 sena",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
