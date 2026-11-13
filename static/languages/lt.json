@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Ar jauni europiečiai tiki, kad ateities kartos turės tokias pačias galimybes?",
+  "subtitle": "2026 m. 53 % jaunų žmonių visoje ES nesutiko, kad kita karta turės tokias pačias sėkmės gyvenime galimybes kaip ir šiandieniniai jaunuoliai. Kipre užfiksuota didžiausia dalis – 62 %, o Estijoje – mažiausia – 27 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Skaičiai apibendrina atsakymus „Linkstu nesutikti“ ir „Visiškai nesutinku“ į teiginį, kad jauni žmonės po 30 metų turės tokias pačias sėkmės gyvenime galimybes, kaip ir to paties amžiaus jauni žmonės šiandien. „Flash Eurobarometer“ apklausoje Nr. 585 visose 27 ES valstybėse narėse nuo 2026 m. birželio 19 d. iki liepos 1 d., naudojant internetines anketas, buvo apklausti 26 807 15–30 metų amžiaus žmonės. Apklausta maždaug po 1 000 respondentų kiekvienoje šalyje, išskyrus Kiprą, Liuksemburgą ir Maltą (apie 500 kiekvienoje). Rezultatai buvo svertiniai pagal amžių, lytį, urbanizaciją ir regioninį gyventojų pasiskirstymą, o ES 27 vidurkis papildomai buvo svertinis pagal šalies gyventojų skaičių.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurobarometras",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "jaunesnių nei 30 metų žmonių",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
