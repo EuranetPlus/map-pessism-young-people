@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Věří mladí Evropané, že budoucí generace budou mít stejné příležitosti?",
+  "subtitle": "V roce 2026 53 % mladých lidí v celé EU nesouhlasilo s tím, že příští generace bude mít stejnou šanci na úspěch v životě jako mladí lidé dnes. Kypr zaznamenal nejvyšší podíl s 62 %, zatímco Estonsko mělo nejnižší podíl s 27 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje kombinují odpovědi „Spíše nesouhlasím“ a „Zcela nesouhlasím“ na tvrzení, že mladí lidé za 30 let budou mít stejnou šanci na úspěch v životě jako mladí lidé stejného věku dnes. Průzkum Flash Eurobarometer 585 proběhl v období od 19. června do 1. července 2026 prostřednictvím online dotazníků a v každém z nich bylo dotazováno přibližně 1 000 respondentů, s výjimkou Kypru, Lucemburska a Malty (přibližně 500 v každé zemi). Výsledky byly váženy podle věku, pohlaví, urbanizace a regionálního rozložení populace, přičemž průměr EU-27 byl navíc vážen podle počtu obyvatel země.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometr",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "osob mladších 30 let",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
