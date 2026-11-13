@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Ali mladi Evropejci verjamejo, da bodo imele prihodnje generacije enake priložnosti?",
+  "subtitle": "Leta 2026 se 53 % mladih po vsej EU ni strinjalo, da bo imela naslednja generacija enake možnosti za uspeh v življenju kot mladi danes. Ciper je zabeležil najvišji delež, 62 %, Estonija pa najnižjega, 27 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Številke združujejo odgovora »Se ne strinjam« in »Sploh se ne strinjam« na trditev, da bodo imeli mladi čez 30 let enake možnosti za uspeh v življenju kot mladi iste starosti danes. V anketi Flash Eurobarometer 585 je bilo med 19. junijem in 1. julijem 2026 prek spletnih vprašalnikov anketiranih 26.807 ljudi, starih od 15 do 30 let, v vseh 27 državah članicah EU. Anketiranih je bilo približno 1000 anketirancev na državo, razen na Cipru, v Luksemburgu in na Malti (približno 500 v vsaki državi). Rezultati so bili uteženi glede na starost, spol, urbanizacijo in regionalno porazdelitev prebivalstva, povprečje EU-27 pa je bilo dodatno uteženo glede na število prebivalcev države.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometer",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "ljudi, mlajših od 30 let",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
