@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy młodzi Europejczycy wierzą, że przyszłe pokolenia będą miały takie same możliwości?",
+  "subtitle": "W 2026 roku 53% młodych ludzi w całej UE nie zgadzało się z twierdzeniem, że kolejne pokolenie będzie miało takie same szanse na odniesienie sukcesu w życiu jak młodzi ludzie dzisiaj. Najwyższy odsetek – 62% – odnotował Cypr, a najniższy Estonia – 27%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane łączą odpowiedzi „raczej się nie zgadzam” i „całkowicie się nie zgadzam” na stwierdzenie, że młodzi ludzie za 30 lat będą mieli takie same szanse na odniesienie sukcesu w życiu jak młodzi ludzie w tym samym wieku dzisiaj. W badaniu Flash Eurobarometer 585 przebadano 26 807 osób w wieku 15–30 lat we wszystkich 27 państwach członkowskich UE w okresie od 19 czerwca do 1 lipca 2026 r. za pomocą ankiet internetowych. W badaniu wzięło udział około 1000 respondentów z każdego kraju, z wyjątkiem Cypru, Luksemburga i Malty (po około 500). Wyniki ważono według wieku, płci, urbanizacji i regionalnego rozkładu populacji, a średnia dla UE-27 dodatkowo ważona według liczby ludności kraju.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurobarometr",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "osób w wieku poniżej 30 lat",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
