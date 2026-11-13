@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Será que os jovens europeus acreditam que as gerações futuras terão as mesmas oportunidades?",
+  "subtitle": "Em 2026, 53% dos jovens em toda a UE discordaram que a próxima geração terá as mesmas oportunidades de sucesso na vida que os jovens de hoje. Chipre registrou a maior porcentagem, com 62%, enquanto a Estônia teve a menor, com 27%.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Os dados combinam as respostas 'Discordo parcialmente' e 'Discordo totalmente' à afirmação de que os jovens daqui a 30 anos terão as mesmas chances de sucesso na vida que os jovens da mesma idade hoje. A pesquisa Flash Eurobarometer 585 entrevistou 26.807 pessoas com idades entre 15 e 30 anos em todos os 27 Estados-Membros da UE, entre 19 de junho e 1 de julho de 2026, por meio de questionários online. Aproximadamente 1.000 pessoas foram entrevistadas por país, exceto Chipre, Luxemburgo e Malta (cerca de 500 em cada). Os resultados foram ponderados por idade, sexo, urbanização e distribuição regional da população, com a média da UE-27 ponderada adicionalmente pela população de cada país.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarômetro",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "de pessoas com menos de 30 anos",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
