@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Uskovatko nuoret eurooppalaiset, että tulevilla sukupolvilla on samat mahdollisuudet?",
+  "subtitle": "Vuonna 2026 53 % nuorista EU:ssa oli eri mieltä siitä, että seuraavalla sukupolvella on samat mahdollisuudet menestyä elämässä kuin nykyisillä nuorilla. Kyproksella osuus oli korkein, 62 %, kun taas Virossa se oli alhaisin, 27 %.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Luvut yhdistävät 'Olen enemmänkin eri mieltä' ja 'Täysin eri mieltä' -vastaukset väittämään, että nuorilla on 30 vuoden kuluttua samat mahdollisuudet menestyä elämässä kuin samanikäisillä nuorilla tänään. Flash Eurobarometer 585 -kyselyssä haastateltiin 26 807:ää 15–30-vuotiasta kaikissa 27 EU:n jäsenvaltiossa 19. kesäkuuta ja 1. heinäkuuta 2026 välisenä aikana verkkokyselylomakkeiden avulla. Noin 1 000 vastaajaa haastateltiin maata kohden lukuun ottamatta Kyprosta, Luxemburgia ja Maltaa (noin 500 kumpaakin). Tulokset painotettiin iän, sukupuolen, kaupungistumisen ja alueellisen väestöjakauman mukaan, ja EU27:n keskiarvo painotettiin lisäksi maan väestöllä.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometri",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "alle 30-vuotiaista",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
