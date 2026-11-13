@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Vai jaunie eiropieši tic, ka nākamajām paaudzēm būs tādas pašas iespējas?",
+  "subtitle": "2026. gadā 53% jauniešu visā ES nepiekrita apgalvojumam, ka nākamajai paaudzei būs tādas pašas izredzes gūt panākumus dzīvē kā jauniešiem mūsdienās. Kiprā bija visaugstākais rādītājs – 62%, bet Igaunijā – viszemākais – 27%.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Skaitļi apvieno atbildes “Drīzāk nepiekrītu” un “Pilnībā nepiekrītu” uz apgalvojumu, ka jauniešiem pēc 30 gadiem būs tādas pašas izredzes gūt panākumus dzīvē kā jauniešiem tādā pašā vecumā šodien. Flash Eurobarometer 585 aptaujā laikā no 2026. gada 19. jūnija līdz 1. jūlijam, izmantojot tiešsaistes anketas, tika aptaujāti 26 807 cilvēki vecumā no 15 līdz 30 gadiem visās 27 ES dalībvalstīs. Katrā valstī, izņemot Kipru, Luksemburgu un Maltu (aptuveni 500 katrā), tika aptaujāti aptuveni 1000 respondentu. Rezultāti tika svērti pēc vecuma, dzimuma, urbanizācijas un reģionālā iedzīvotāju sadalījuma, un ES-27 vidējais rādītājs tika papildus svērts pēc valsts iedzīvotāju skaita.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eirobarometrs",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "cilvēkiem, kas jaunāki par 30 gadiem",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
