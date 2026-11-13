@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kas noored eurooplased usuvad, et tulevastel põlvkondadel on samad võimalused?",
+  "subtitle": "2026. aastal ei nõustunud 53% noortest kogu ELis väitega, et järgmisel põlvkonnal on samad võimalused elus edu saavutada kui tänapäeva noortel. Küprosel oli see osakaal kõrgeim, 62%, samas kui Eestis oli see madalaim, 27%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Arvud ühendavad vastused „Kipun ei nõustu“ ja „Täiesti ei nõustu“ väitele, et noortel on 30 aasta pärast samad võimalused elus edu saavutada kui samaealistel noortel täna. Flash Eurobarometer 585 uuringus küsitleti 19. juunist kuni 1. juulini 2026 veebiküsimustiku kaudu 26 807 inimest vanuses 15–30 kõigis 27 ELi liikmesriigis. Riigi kohta küsitleti ligikaudu 1000 vastajat, välja arvatud Küpros, Luksemburg ja Malta (igaüks umbes 500). Tulemusi kaaluti vanuse, soo, linnastumise ja piirkondliku rahvastiku jaotuse järgi, kusjuures EL 27 keskmist kaaluti lisaks riigi rahvaarvu järgi.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobaromeeter",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "alla 30-aastastest inimestest",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
