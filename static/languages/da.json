@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Tror unge europæere, at fremtidige generationer vil have de samme muligheder?",
+  "subtitle": "I 2026 var 53 % af unge i EU uenige i, at den næste generation vil have de samme chancer for at få succes i livet som unge i dag. Cypern registrerede den højeste andel med 62 %, mens Estland havde den laveste med 27 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Tallene kombinerer svarene 'Højst uenig' og 'Helt uenig' på udsagnet om, at unge mennesker om 30 år vil have de samme chancer for at få succes i livet som unge mennesker på samme alder i dag. Flash Eurobarometer 585-undersøgelsen interviewede 26.807 personer i alderen 15-30 år i alle 27 EU-medlemsstater mellem 19. juni og 1. juli 2026 via online spørgeskemaer. Cirka 1.000 respondenter blev adspurgt pr. land, undtagen Cypern, Luxembourg og Malta (ca. 500 hver). Resultaterne blev vægtet efter alder, køn, urbanisering og regional befolkningsfordeling, hvor EU-27-gennemsnittet yderligere blev vægtet efter landets befolkning.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurobarometer",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "af personer under 30 år",
   "tooltipExtraInfoLabel": "Klik her"
 }
