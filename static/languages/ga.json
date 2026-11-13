@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "An gcreideann Eorpaigh óga go mbeidh na deiseanna céanna ag glúnta amach anseo?",
+  "subtitle": "Sa bhliain 2026, níor aontaigh 53% de dhaoine óga ar fud an AE go mbeadh na seansanna céanna ag an gcéad ghlúin eile rath a bhaint amach sa saol agus atá ag daoine óga an lae inniu. Bhí an sciar is airde ag an gCipir ag 62%, agus bhí an sciar is ísle ag an Eastóin ag 27%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Comhcheanglaíonn na figiúirí freagraí “Ní aontaím go minic” agus “Ní aontaím ar chor ar bith” ar an ráiteas go mbeidh na seansanna céanna ag daoine óga i gceann 30 bliain rath a bhaint amach sa saol agus atá ag daoine óga den aois chéanna inniu. Rinne suirbhé Flash Eurobarometer 585 agallamh le 26,807 duine idir 15 agus 30 bliain d’aois ar fud 27 Ballstát an AE idir an 19 Meitheamh agus an 1 Iúil 2026 trí cheistneoirí ar líne. Rinneadh suirbhé ar thart ar 1,000 freagróir in aghaidh gach tíre, seachas an Chipir, Lucsamburg agus Málta (thart ar 500 an ceann). Rinneadh na torthaí a mheá de réir aoise, inscne, uirbithe agus dáileadh daonra réigiúnach, agus meán an AE-27 á mheá freisin de réir dhaonra na tíre.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eorabharaiméadar",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "de dhaoine faoi bhun 30 bliain d'aois",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
