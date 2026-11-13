@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Vajon a fiatal európaiak hisznek abban, hogy a jövő generációinak ugyanilyen lehetőségeik lesznek?",
+  "subtitle": "2026-ban az EU-ban élő fiatalok 53%-a nem értett egyet azzal, hogy a következő generációnak ugyanolyan esélyei lesznek az életben való boldogulásra, mint a mai fiataloknak. Cipruson volt a legmagasabb, 62%-os, míg Észtországban a legalacsonyabb, 27%-os arány.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az adatok a „Inkább nem értek egyet” és a „Teljesen nem értek egyet” válaszokat összesítik arra az állításra, miszerint a fiataloknak 30 év múlva ugyanolyan esélyeik lesznek az életben való boldogulásra, mint a ma azonos korú fiataloknak. A Flash Eurobarometer 585 felmérés 26 807, 15 és 30 év közötti személyt kérdezett meg mind a 27 uniós tagállamban 2026. június 19. és július 1. között online kérdőívek segítségével. Országonként körülbelül 1000 válaszadót kérdeztek meg, Ciprus, Luxemburg és Málta kivételével (egyenként körülbelül 500 fő). Az eredményeket életkor, nem, urbanizáció és regionális népességeloszlás szerint súlyozták, az EU-27 átlagát pedig az ország népességével is súlyozták.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarométer",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "a 30 év alattiak közül",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
